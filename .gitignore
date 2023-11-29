@@ -128,8 +128,12 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# My addition
-datasets/
-kd_losses/kdsvd.py
-results/
-train.sh
+
+logdirs/
+save/
+data/
+.idea/
+.vscode/
+*.png
+*.pdf
+save_dirs/
